@@ -8,7 +8,7 @@ Welcome to the **Movies App** – a simple and responsive web application that d
 
 ## 📸 Preview
 
-![Movies App Preview](https://raw.githubusercontent.com/Abuhamida/Movies-App.github.io/main/img/deploy_image.png.jpeg) <!-- Replace with actual screenshot if available -->
+![Movies App Preview](https://raw.githubusercontent.com/Abuhamida/Movies-App.github.io/main/img/deploy_image.png.jpeg) 
 
 ## 🚀 Features
 
